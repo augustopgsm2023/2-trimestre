@@ -1,9 +1,12 @@
 @import url(STYLES/header.css);
 :root{
---cor-de-fundo: #9949B4;
---cor-cabecalho: #FFFFFF;
+--cor-de-fundo: #000000;
+--cor-cabecalho: #ffe600ad;
 }
 body{
 background-color: var(--cor-de-fundo);
 margin: 0;
+}
+p{
+    color: white;
 }
